@@ -1,3 +1,5 @@
 This is the new feature by dev
 
 dev 2 has added- safe change
+
+dev 2 has added changes
